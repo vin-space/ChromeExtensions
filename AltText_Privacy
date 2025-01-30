@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Image Alt Text - Privacy Policy</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for Review Image Alt Text</h1>
+
+    <p>Effective Date: 30 Jan 2025</p>
+
+    <p>This Privacy Policy describes how the "Review Image Alt Text" Chrome extension ("the Extension") collects, uses, and protects your information.  We are committed to protecting your privacy and ensuring transparency in our data practices.</p>
+
+    <h2>Information Collection and Use</h2>
+
+    <p><strong>We do not collect any personal data from you.</strong>  This Extension operates entirely locally within your Chrome browser. It does not transmit any information to external servers or services.  Specifically, we do not collect:</p>
+
+    <ul>
+        <li>Your browsing history</li>
+        <li>Information from the web pages you visit</li>
+        <li>Any data you enter on web pages</li>
+        <li>Your IP address or location</li>
+    </ul>
+
+    <p>The Extension only processes the HTML content of the currently active tab within your browser to identify and display image alt text. This processing happens in real-time and entirely within your browser.  No data is stored or transmitted.</p>
+
+    <h2>Data Storage</h2>
+
+    <p>The Extension does not store any user data. All processing is temporary and occurs only while you are using the Extension on a specific webpage.  Once you close the tab or disable the Extension, any processed data is immediately discarded.</p>
+
+    <h2>Changes to this Privacy Policy</h2>
+
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revised "Effective Date."  We encourage you to review this Privacy Policy periodically.</p>
+
+    <h2>Contact Us</h2>
+
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at: [Your Contact Email Address or Link to Contact Form]</p>
+
+
+</body>
+</html>
